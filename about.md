@@ -30,13 +30,13 @@ signal-cytoskeleton relationship in growing axons.
 
 ## Publications
 1. C Floyd, **Chandrasekaran, A.**, H Ni, Q Ni, GA Papoian (2021) Segmental Lennard-Jones interactions for semi-flexible
-   polymer networks Molecular Physics, e1910358.
+   polymer networks, Molecular Physics, e1910358.[preprint](https://arxiv.org/abs/2102.11446), [link](https://www.tandfonline.com/doi/abs/10.1080/00268976.2021.1910358)
 2. **Chandrasekaran, A.**, Upadhyaya, A., and Papoian, G. A. (2019) Remarkable structural
    transformations of actin bundles are driven by their initial polarity, motor activity, crosslinking,
-   and filament treadmilling. PLOS Comput. Biol., **15**(7) e1007156
+   and filament treadmilling. PLOS Comput. Biol., **15**(7) e1007156 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007156)
 3. **Chandrasekaran, A.**, Chan, J., Lim, C., and Yang, L. W. (2016) Protein Dynamics and Contact
-   Topology Reveal Protein-DNA Binding Orientation. J. Chem. Theory Comput., **12**, 5269
+   Topology Reveal Protein-DNA Binding Orientation. J. Chem. Theory Comput., **12**, 5269 [link](https://pubs.acs.org/doi/10.1021/acs.jctc.6b00688)
 4. Li, H., Sakuraba, S., **Chandrasekaran, A.**, and Yang, L. W. (2014) Molecular binding sites are
-   located near the interface of intrinsic dynamics domains (IDDs). J. Chem. Inf. Model., **54**, 2275
+   located near the interface of intrinsic dynamics domains (IDDs). J. Chem. Inf. Model., **54**, 2275 [link](https://pubs.acs.org/doi/10.1021/ci500261z)
 5. **Chandrasekaran, A.** and Jain, S. R. (2012) Kac’s ring: Entropy and Poincar´e recurrence. Phys.
-   A Stat. Mech. and its Appl., **391**, 3702
+   A Stat. Mech. and its Appl., **391**, 3702 [link](https://www.sciencedirect.com/science/article/abs/pii/S0378437112001264)

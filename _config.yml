@@ -14,9 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aravind Chandrasekaran
-descriptionL1: Postdoctoral Fellow
-descriptionL2: Rangamani Lab, Department of Mechanical and Aerospace Engineering
-descriptionL3: University of Californa San Diego
+descriptionL1: Postdoctoral Fellow, Rangamani Lab
+  <br>Department of Mechanical and Aerospace Engineering<br>University of Californa San Diego
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://achansek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: achansek.github.io # the GitHub repo name for your project

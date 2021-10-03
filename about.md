@@ -1,10 +1,13 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+My research focuses on employing inter-disciplinary computational approaches to understand
+how mechanical and chemical properties of biological materials are tuned to enable specific functional
+goals. Examples include dynamic biological patterns of self-assembly in actin bundles, and
+signal-cytoskeleton relationship in growing axons.
 
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.

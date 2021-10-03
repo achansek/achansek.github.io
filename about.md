@@ -2,7 +2,10 @@
 layout: page
 title: About me
 permalink: /about/
+image: /files/AChandrasekaran.jpg
 ---
+
+![]({{ page.image | relative_url  }}){: width="480" }
 
 # Aravind Chandrasekaran
 ## [CV](/files/Chandrasekaran_CV.pdf)

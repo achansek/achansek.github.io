@@ -30,7 +30,7 @@ signal-cytoskeleton relationship in growing axons.
 
 ## Publications
 1. C Floyd, **Chandrasekaran, A.**, H Ni, Q Ni, GA Papoian (2021) [Segmental Lennard-Jones interactions for semi-flexible
-   polymer networks, Molecular Physics, e1910358.]((https://www.tandfonline.com/doi/abs/10.1080/00268976.2021.1910358)) [preprint](https://arxiv.org/abs/2102.11446)
+   polymer networks, Molecular Physics, e1910358.](https://www.tandfonline.com/doi/abs/10.1080/00268976.2021.1910358)) [preprint](https://arxiv.org/abs/2102.11446)
 2. **Chandrasekaran, A.**, Upadhyaya, A., and Papoian, G. A. (2019) [Remarkable structural
    transformations of actin bundles are driven by their initial polarity, motor activity, crosslinking,
    and filament treadmilling.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007156) PLOS Comput. Biol., **15**(7) e1007156 

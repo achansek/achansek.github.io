@@ -31,9 +31,8 @@ signal-cytoskeleton relationship in growing axons.
 * International Student Scholarship, National Tsing Hua University, 2012-13, and 2013-14
 
 ## Publications
-1. Walker, C., **Chandrasekaran, A.**, Mansour, D., Graham, K., Torres, A., Wang, L., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2024). Liquid-like condensates that bind actin drive filament polymerization and bundling, *bioRχiv* : 10.1101/2024.05.04.592527 (Accepted with *Developmental Cell*)
-2. **Chandrasekaran, A.**, Graham, G., Stachowiak, J.C., Rangamani, P. (2024). [Kinetic trapping organizes
-actin filaments within liquid-like protein droplets] (https://www.nature.com/articles/s41467-024-46726-6), *Nature Communications*, 15, 3139
+1. Walker, C., **Chandrasekaran, A.**, Mansour, D., Graham, K., Torres, A., Wang, L., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2024). [Liquid-like condensates that bind actin drive filament polymerization and bundling](https://www.biorxiv.org/content/10.1101/2024.05.04.592527v2), *bioRχiv* : 10.1101/2024.05.04.592527 (Accepted with *Developmental Cell*)
+2. **Chandrasekaran, A.**, Graham, G., Stachowiak, J.C., Rangamani, P. (2024). [Kinetic trapping organizes actin filaments within liquid-like protein droplets](https://www.nature.com/articles/s41467-024-46726-6), *Nature Communications*, 15, 3139
 3. Graham, G., **Chandrasekaran, A.**, Wang, L., Ladak, A., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2024). [Liquid-like condensates mediate competition between actin branching and bundling.](https://www.pnas.org/doi/10.1073/pnas.2309152121), *PNAS*, 121(3), e2309152121
 4. Forghani, R., **Chandrasekaran, A.**, Papoian, G. A., and Giniger, E. (2023). [A new view of axon growth and guidance grounded in the stochastic dynamics of actin networks.](https://royalsocietypublishing.org/doi/10.1098/rsob.220359), *Open Biology*, 13: 220359
 5. Fang, H.Y., Forghani, R., Clarke, A., McQueen, P., **Chandrasekaran, A.**, O’Neil, K., Losert, W., Papoian, G. A., and Giniger, E. (2023). [Enabled primarily controls filopodial morphology, not actin organization, in the TSM1 growth cone in Drosophila.](https://www.molbiolcell.org/doi/10.1091/mbc.E23-01-0003), *Mol. Biol. of the Cell*, 34(8), 34:ar83, 1 (IF - 4.0)

@@ -2,6 +2,7 @@
 layout: page
 title: Code repositories
 permalink: /Repos/
+order: 2
 ---
 
 ![]({{ page.image | relative_url  }}){: width="480" }

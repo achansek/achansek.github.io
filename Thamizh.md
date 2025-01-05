@@ -3,6 +3,7 @@ layout: page
 title: என்னைப் பற்றி
 permalink: /tamizh/
 category_name: writing
+order: 3
 ---
 ## தமிழாக்கம்  - தொகுக்கும் நிலையில் உள்ளது
 ## அரவிந்த் சந்திரசேகரன்

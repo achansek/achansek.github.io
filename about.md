@@ -3,6 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 image: /files/AChandrasekaran.jpg
+order: 1
 ---
 
 ![]({{ page.image | relative_url  }}){: width="480" }

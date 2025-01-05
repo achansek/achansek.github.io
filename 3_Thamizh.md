@@ -1,7 +1,7 @@
 ---
 layout: page
 title: என்னைப் பற்றி
-permalink: /tamizh/
+permalink: /3_tamizh/
 category_name: writing
 order: 3
 ---

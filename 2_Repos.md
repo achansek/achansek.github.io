@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code repositories
-permalink: /Repos/
+permalink: /2_Repos/
 order: 2
 ---
 

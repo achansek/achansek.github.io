@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /1_about/
+permalink: /about/
 image: /files/AChandrasekaran.jpg
 order: 1
 ---

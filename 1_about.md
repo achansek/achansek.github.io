@@ -9,7 +9,7 @@ order: 1
 ![]({{ page.image | relative_url  }}){: width="480" }
 
 # Aravind Chandrasekaran
-## [CV](/files/Chandrasekaran_CV.pdf)
+## [CV](/files/Chandrasekaran_CV_v2.pdf)
 My research focuses on employing inter-disciplinary computational approaches to understand
 how mechanical and chemical properties of biological materials are tuned to enable specific functional
 goals in living systems. Examples include dynamic biological patterns of self-assembly in actin bundles, and

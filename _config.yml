@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Aravind Chandrasekaran
 descriptionL1: Postdoctoral Fellow, Rangamani Lab
-  <br>Department of Mechanical and Aerospace Engineering<br>University of Californa San Diego
+  <br>Department of Pharmacology<br>University of Californa San Diego
 descriptionL2: At the physics-biology interface
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://achansek.github.io" # the base hostname & protocol for your site, e.g. http://example.com

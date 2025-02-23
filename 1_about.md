@@ -31,6 +31,9 @@ signal-cytoskeleton relationship in growing axons.
 * Dean’s Fellowship, University of Maryland, 2014-15, 2015-16, and 2019-2020
 * International Student Scholarship, National Tsing Hua University, 2012-13, and 2013-14
 
+## Research recognition/highlights
+* 2023 [VASP liquid droplet research](https://www.nature.com/articles/s41567-022-01924-1) was highlited in Physics Today [Actin assembly is a physics problem](https://pubs.aip.org/physicstoday/article/76/4/14/2879446/Actin-assembly-is-a-physics-problemSimple)
+* 2022 [Axonal actin assembly research](https://www.molbiolcell.org/doi/10.1091/mbc.E21-11-0535) was recommended to [F1000](https://archive.connect.h1.co/article/742243687/) by Prof. Peter Hiesinger
 ## Publications
 1. Walker, C., **Chandrasekaran, A.**, Mansour, D., Graham, K., Torres, A., Wang, L., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2025). [Liquid-like condensates that bind actin drive filament polymerization and bundling](https://www.biorxiv.org/content/10.1101/2024.05.04.592527v2) *Developmental Cell* (In Press)
 2. **Chandrasekaran, A.**, Graham, G., Stachowiak, J.C., Rangamani, P. (2024). [Kinetic trapping organizes actin filaments within liquid-like protein droplets](https://www.nature.com/articles/s41467-024-46726-6), *Nature Communications*, 15, 3139

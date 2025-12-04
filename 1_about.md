@@ -16,7 +16,8 @@ goals in living systems. Examples include dynamic biological patterns of self-as
 signal-cytoskeleton relationship in growing axons.
 
 ## Employment 
-* Post-doctoral fellow, [Rangamani Lab](https://sites.google.com/eng.ucsd.edu/prangamani/group/padmini-rangamani?authuser=0) (August, 2021 – present)
+* Quantitative Systems Pharmacologist, Atrium Payroll Services LLC in contract with Pfizer Inc., (July 2025- Present)
+* Post-doctoral fellow, [Rangamani Lab](https://sites.google.com/eng.ucsd.edu/prangamani/group/padmini-rangamani?authuser=0) (August, 2021 – June, 2025)
 
 ## Education
 * Ph.D. Chemistry, University of Maryland, College Park (2014-2021)
@@ -34,8 +35,9 @@ signal-cytoskeleton relationship in growing axons.
 ## Research recognition/highlights
 * 2023 [VASP liquid droplet research](https://www.nature.com/articles/s41567-022-01924-1) was highlited in Physics Today [Actin assembly is a physics problem](https://pubs.aip.org/physicstoday/article/76/4/14/2879446/Actin-assembly-is-a-physics-problemSimple)
 * 2022 [Axonal actin assembly research](https://www.molbiolcell.org/doi/10.1091/mbc.E21-11-0535) was recommended to [H1 Connect (previously Faculty Opinions)](https://archive.connect.h1.co/article/742243687/) by Prof. Peter Hiesinger
-## Publications
-1. Walker, C., **Chandrasekaran, A.**, Mansour, D., Graham, K., Torres, A., Wang, L., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2025). [Liquid-like condensates that bind actin drive filament polymerization and bundling](https://www.biorxiv.org/content/10.1101/2024.05.04.592527v2) *Developmental Cell* (In Press)
+## Publications (# equal contribution)
+1. Zhu, K.#, Guo, Z.#, **Chandrasekaran, A.#**, Miao, X., Rangamani, P., Zhao, W., Miao, Y., [Radius-Sensitive Curvature and Cdc42 Orchestrate Actin Nucleation via FBP17-N-WASP Clustering](https://www.biorxiv.org/content/10.1101/2024.04.25.591054v1.abstract) *The EMBO Journal* (in Press)
+1. Walker, C., **Chandrasekaran, A.**, Mansour, D., Graham, K., Torres, A., Wang, L., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2025). [Liquid-like condensates that bind actin promote assembly and bundling of actin](https://www.cell.com/developmental-cell/abstract/S1534-5807(25)00032-2) *Developmental Cell* 60(11), P1550
 2. **Chandrasekaran, A.**, Graham, G., Stachowiak, J.C., Rangamani, P. (2024). [Kinetic trapping organizes actin filaments within liquid-like protein droplets](https://www.nature.com/articles/s41467-024-46726-6), *Nature Communications*, 15, 3139
 3. Graham, G., **Chandrasekaran, A.**, Wang, L., Ladak, A., Lafer, E.M., Rangamani, P., Stachowiak, J.C. (2024). [Liquid-like condensates mediate competition between actin branching and bundling.](https://www.pnas.org/doi/10.1073/pnas.2309152121), *PNAS*, 121(3), e2309152121
 4. Forghani, R., **Chandrasekaran, A.**, Papoian, G. A., and Giniger, E. (2023). [A new view of axon growth and guidance grounded in the stochastic dynamics of actin networks.](https://royalsocietypublishing.org/doi/10.1098/rsob.220359), *Open Biology*, 13: 220359

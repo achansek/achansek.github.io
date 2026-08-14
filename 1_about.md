@@ -56,6 +56,5 @@ signal-cytoskeleton relationship in growing axons.
    Topology Reveal Protein-DNA Binding Orientation.](https://pubs.acs.org/doi/10.1021/acs.jctc.6b00688) J. Chem. Theory Comput., **12**, 5269 
 15. Li, H., Sakuraba, S., **Chandrasekaran, A.**, and Yang, L. W. (2014) [Molecular binding sites are
    located near the interface of intrinsic dynamics domains (IDDs).](https://pubs.acs.org/doi/10.1021/ci500261z) J. Chem. Inf. Model., **54**, 2275
-
 16 . **Chandrasekaran, A.** and Jain, S. R. (2012) [Kac’s ring: Entropy and Poincar´e recurrence.](https://www.sciencedirect.com/science/article/abs/pii/S0378437112001264) Phys.
    A Stat. Mech. and its Appl., **391**, 3702 
